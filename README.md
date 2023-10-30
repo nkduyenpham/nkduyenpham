@@ -27,7 +27,7 @@ Coming soon
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Christy Ph's Coding Journey</h3></summary>
 In 2019, I started my journey with a unique perspective - as a recent graduate from university. I had just completed my academic studies and was ready to embark on a career in the field of digital marketing. However, it was during this time that I stumbled upon an exciting opportunity to become the administrator for my company's website. This role introduced me to the vast and fascinating world of coding.
 
 In 2021, I decided to take my coding journey to the next level by transitioning into a front-end developer role. This period was transformative as I delved into various programming languages and technologies, including JavaScript, HTML, CSS, jQuery, WordPress, and Bootstrap. During this time, I also began to explore the realms of React and Node.js, broadening my skills and knowledge.
