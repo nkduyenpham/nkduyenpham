@@ -2,7 +2,8 @@
 
 **` A Developer/Creator `**
 
-I'm a passionate back-end developer with experience in front-end. My goal is to use coding to solve real-world problems. I approach projects with meticulous planning and dedication, from initial ideation to the finishing touches that make my work stand out. My GitHub profile is where I share my journey to becoming a full-stack developer. Together, let's explore the world of software development one project at a time.
+
+I'm a passionate full-stack developer specializing in back-end logic. With a background in front-end development, I channel creativity into solving real-world problems through coding. From meticulous planning to the finishing touches, I approach projects with dedication. Check out my journey on GitHub as I evolve into a full-stack developer.
 
 ---
 
