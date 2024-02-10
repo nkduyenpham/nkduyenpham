@@ -1,6 +1,6 @@
-# Ngoc Ky Duyen Pham aka Christy Ph
+# Ngoc Ky Duyen Pham 
 
-**` A Developer/Creator `**
+**` A Developer `**
 
 
 I'm a passionate full-stack developer specializing in back-end logic. With a background in front-end development, I channel creativity into solving real-world problems through coding. From meticulous planning to the finishing touches, I approach projects with dedication. Check out my journey on GitHub as I evolve into a full-stack developer.
